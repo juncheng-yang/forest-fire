@@ -12,15 +12,12 @@ Our project aims to develop a Machine Learning (ML) system for predicting the ri
 
 ## Data Source and Description
 
-The dataset includes U.S. Wildfire Records and incorporates a variety of features significant to forest fire risk assessment. A detailed description of the data sources and their respective features is available in the [Data](/Data) directory.
+The dataset includes U.S. Wildfire Records and incorporates a variety of features significant to forest fire risk assessment. A detailed description of the data sources and their respective features is available in the [Data](/forestfires.csv) directory.
 
 ## Data Exploration and Visualization
 
-We have conducted Exploratory Data Analysis (EDA) to understand data distribution, trends, and potential correlations. The [Notebooks](/Notebooks) directory contains Jupyter notebooks illustrating this analysis, including visualizations of key variables.
+We have conducted Exploratory Data Analysis (EDA) to understand data distribution, trends, and potential correlations. The [Notebooks](/forest-fire.ipynb) directory contains Jupyter notebooks illustrating this analysis, including visualizations of key variables.
 
-## Installation and Usage
-
-Instructions for setting up the environment, installing dependencies, and running the predictive models are provided in the [Installation](/Installation) directory.
 
 ## Expected Business Value
 
