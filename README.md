@@ -27,7 +27,18 @@ We have conducted Exploratory Data Analysis (EDA) to understand data distributio
 
 ## Weekly Progress
 
-We maintain a log of our weekly progress in the [Progress](/Progress) directory, showcasing completed tasks and ongoing efforts.
+Completed the collection and integration of U.S. Wildfire Records into the
+predictive model.
+▪ Preliminary data analysis Exploratory Data Analysis (EDA): Conduct preliminary
+analysis of collected data to understand data distribution, trends, and potential
+correlations. Identify key variables: Start identifying key variables that may have a
+significant impact on forest fire risk.
+▪ Preliminary model development Model Development: Start developing and
+debugging basic machine learning models. Preliminary testing: Conduct
+preliminary testing using a small set of data to evaluate the effectiveness of the
+model.
+▪ Teamwork and communication Team Meetings: Hold regular team meetings to
+discuss progress, challenges and next steps.
 
 ## Contributors
 
